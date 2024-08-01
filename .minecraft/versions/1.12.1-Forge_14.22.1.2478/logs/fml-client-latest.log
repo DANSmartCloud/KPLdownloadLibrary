@@ -1,0 +1,401 @@
+[22:52:30] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[22:52:30] [main/INFO] [FML/]: Forge Mod Loader version 14.22.1.2478 for Minecraft 1.12.1 loading
+[22:52:30] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at C:\Users\DANSm\AppData\Roaming\.minecraft\runtime\jre-legacy
+[22:52:30] [main/DEBUG] [FML/]: Java classpath at launch is:
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\mojang\realms\1.10.17\realms-1.10.17.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\minecraftforge\forge\1.12.1-14.22.1.2478\forge-1.12.1-14.22.1.2478.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\jline\jline\2.13\jline-2.13.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\versions\1.12.1-Forge_14.22.1.2478\1.12.1-Forge_14.22.1.2478.jar
+[22:52:30] [main/DEBUG] [FML/]: Java library path at launch is:
+[22:52:30] [main/DEBUG] [FML/]:     C:\Users\DANSm\Desktop\PKL\.minecraft\versions\1.12.1-Forge_14.22.1.2478\1.12.1-Forge_14.22.1.2478-natives
+[22:52:30] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[22:52:30] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[22:52:30] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[22:52:30] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:52:30] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[22:52:30] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[22:52:30] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[22:52:30] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[22:52:30] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:52:30] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[22:52:30] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[22:52:30] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\DANSm\Desktop\PKL\.minecraft\versions\1.12.1-Forge_14.22.1.2478
+[22:52:30] [main/DEBUG] [FML/]: Discovering coremods
+[22:52:30] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:52:30] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:52:30] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:52:30] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:52:30] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:52:30] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[22:52:30] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[22:52:30] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[22:52:30] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[22:52:30] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[22:52:30] [main/DEBUG] [FML/]: Injection complete
+[22:52:30] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[22:52:30] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[22:52:31] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[22:52:31] [main/DEBUG] [FML/]: Read 1008 binary patches
+[22:52:31] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.12.1.lzma with 36083 records
+[22:52:32] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:52:32] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[22:52:32] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[22:52:32] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:52:32] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[22:52:32] [main/DEBUG] [FML/]: Injection complete
+[22:52:32] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[22:52:32] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[22:52:32] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[22:52:32] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:52:32] [main/DEBUG] [FML/]: Loaded 208 rules from AccessTransformer config file forge_at.cfg
+[22:52:32] [main/DEBUG] [FML/]: Validating minecraft
+[22:52:32] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[22:52:32] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:52:32] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:52:32] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:52:33] [main/INFO] [STDOUT/]: [net.minecraft.client.main.Main:main:55]: Completely ignored arguments: [508, PCL, ]
+[22:52:36] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[22:52:36] [main/DEBUG] [FML/]: Vanilla freeze snapshot created
+[22:52:38] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - LanguageManager took 0.002s
+[22:52:38] [main/INFO] [FML/]: Could not load splash.properties, will create a default one
+[22:52:38] [main/INFO] [FML/]: -- System Details --
+Details:
+	Minecraft Version: 1.12.1
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 206732232 bytes (197 MB) / 795869184 bytes (759 MB) up to 4724883456 bytes (4506 MB)
+	JVM Flags: 6 total; -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn675m -Xmx4505m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'Intel' Version: '4.6.0 - Build 31.0.101.4505' Renderer: 'Intel(R) Iris(R) Xe Graphics'
+[22:52:38] [main/INFO] [FML/]: MinecraftForge v14.22.1.2478 Initialized
+[22:52:38] [main/INFO] [FML/]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:52:38] [main/INFO] [FML/]: Replaced 1036 ore ingredients
+[22:52:38] [main/DEBUG] [FML/]: File C:\Users\DANSm\Desktop\PKL\.minecraft\versions\1.12.1-Forge_14.22.1.2478\config\injectedDependencies.json not found. No dependencies injected
+[22:52:38] [main/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[22:52:38] [main/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[22:52:38] [main/DEBUG] [FML/]: Found a minecraft related file at C:\Users\DANSm\Desktop\PKL\PCL\JavaWrapper.jar, examining for mod candidates
+[22:52:38] [main/DEBUG] [FML/]: Found a minecraft related file at C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar, examining for mod candidates
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\mojang\realms\1.10.17\realms-1.10.17.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+[22:52:38] [main/DEBUG] [FML/]: Found a minecraft related file at C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar, examining for mod candidates
+[22:52:38] [main/DEBUG] [FML/]: Found a minecraft related file at C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\minecraftforge\forge\1.12.1-14.22.1.2478\forge-1.12.1-14.22.1.2478.jar, examining for mod candidates
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\jline\jline\2.13\jline-2.13.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[22:52:38] [main/TRACE] [FML/]: Skipping known library file C:\Users\DANSm\Desktop\PKL\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[22:52:38] [main/DEBUG] [FML/]: Found a minecraft related file at C:\Users\DANSm\Desktop\PKL\.minecraft\versions\1.12.1-Forge_14.22.1.2478\1.12.1-Forge_14.22.1.2478.jar, examining for mod candidates
+[22:52:38] [main/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[22:52:38] [main/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[22:52:38] [main/INFO] [FML/]: Searching C:\Users\DANSm\Desktop\PKL\.minecraft\versions\1.12.1-Forge_14.22.1.2478\mods for mods
+[22:52:38] [main/DEBUG] [FML/]: Examining file JavaWrapper.jar for potential mods
+[22:52:38] [main/DEBUG] [FML/]: The mod container JavaWrapper.jar appears to be missing an mcmod.info file
+[22:52:38] [main/DEBUG] [FML/]: Examining file patchy-1.3.9.jar for potential mods
+[22:52:38] [main/DEBUG] [FML/]: The mod container patchy-1.3.9.jar appears to be missing an mcmod.info file
+[22:52:38] [main/DEBUG] [FML/]: Examining file text2speech-1.10.3.jar for potential mods
+[22:52:38] [main/DEBUG] [FML/]: The mod container text2speech-1.10.3.jar appears to be missing an mcmod.info file
+[22:52:38] [main/DEBUG] [FML/]: Examining file forge-1.12.1-14.22.1.2478.jar for potential mods
+[22:52:38] [main/DEBUG] [FML/]: The mod container forge-1.12.1-14.22.1.2478.jar appears to be missing an mcmod.info file
+[22:52:39] [main/DEBUG] [FML/]: Examining file 1.12.1-Forge_14.22.1.2478.jar for potential mods
+[22:52:39] [main/DEBUG] [FML/]: The mod container 1.12.1-Forge_14.22.1.2478.jar appears to be missing an mcmod.info file
+[22:52:39] [main/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
+[22:52:39] [main/TRACE] [FML/]: Received a system property request ''
+[22:52:39] [main/TRACE] [FML/]: System property request managing the state of 0 mods
+[22:52:39] [main/DEBUG] [FML/]: After merging, found state information for 0 mods
+[22:52:39] [main/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[22:52:39] [main/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[22:52:39] [main/TRACE] [FML/]: Verifying mod requirements are satisfied
+[22:52:39] [main/TRACE] [FML/]: All mod requirements are satisfied
+[22:52:39] [main/TRACE] [FML/]: Sorting mods into an ordered list
+[22:52:39] [main/TRACE] [FML/]: Mod sorting completed successfully
+[22:52:39] [main/DEBUG] [FML/]: Mod sorting data
+[22:52:39] [main/DEBUG] [FML/]: No user mods found to sort
+[22:52:39] [main/DEBUG] [FML/]: Loading @Config anotation data
+[22:52:39] [main/TRACE] [minecraft/minecraft]: Sending event FMLConstructionEvent to mod minecraft
+[22:52:39] [main/TRACE] [minecraft/minecraft]: Sent event FMLConstructionEvent to mod minecraft
+[22:52:39] [main/DEBUG] [FML/]: Bar Step: Construction - Minecraft took 0.009s
+[22:52:39] [main/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[22:52:39] [main/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[22:52:39] [main/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
+[22:52:39] [main/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[22:52:40] [main/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[22:52:40] [main/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[22:52:40] [main/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[22:52:40] [main/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[22:52:40] [main/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[22:52:40] [main/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[22:52:40] [main/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.541s
+[22:52:40] [main/TRACE] [forge/forge]: Sending event FMLConstructionEvent to mod forge
+[22:52:40] [main/DEBUG] [forge/forge]: Preloading CrashReport Classes
+[22:52:40] [main/DEBUG] [forge/forge]: 	net/minecraftforge/common/util/TextTable
+[22:52:40] [main/DEBUG] [forge/forge]: 	net/minecraftforge/common/util/TextTable$Alignment
+[22:52:40] [main/DEBUG] [forge/forge]: 	net/minecraftforge/common/util/TextTable$Column
+[22:52:40] [main/DEBUG] [forge/forge]: 	net/minecraftforge/common/util/TextTable$Row
+[22:52:40] [main/DEBUG] [forge/forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[22:52:40] [main/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[22:52:40] [main/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/Loader$1
+[22:52:40] [main/TRACE] [FML/forge]: Mod forge is using network checker : No network checking performed
+[22:52:40] [main/TRACE] [FML/forge]: Testing mod forge to verify it accepts its own version in a remote connection
+[22:52:40] [main/TRACE] [FML/forge]: The mod forge accepts its own version (14.22.1.2478)
+[22:52:40] [main/DEBUG] [FML/forge]: Attempting to inject @Config classes into forge for type INSTANCE
+[22:52:40] [main/TRACE] [forge/forge]: Sent event FMLConstructionEvent to mod forge
+[22:52:40] [main/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.054s
+[22:52:40] [main/DEBUG] [FML/]: Bar Finished: Construction took 0.604s
+[22:52:40] [main/DEBUG] [FML/]: Mod signature data
+[22:52:40] [main/DEBUG] [FML/]:  	Valid Signatures:
+[22:52:40] [main/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.12.1-14.22.1.2478.jar
+[22:52:40] [main/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	14.22.1.2478)	forge-1.12.1-14.22.1.2478.jar
+[22:52:40] [main/DEBUG] [FML/]:  	Missing Signatures:
+[22:52:40] [main/DEBUG] [FML/]: 		minecraft	(Minecraft	1.12.1)	minecraft.jar
+[22:52:40] [main/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
+[22:52:40] [main/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.005s
+[22:52:40] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.004s
+[22:52:40] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.004s
+[22:52:40] [main/DEBUG] [FML/]: Bar Finished: Reloading - LanguageManager took 0.085s
+[22:52:40] [main/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 0.086s
+[22:52:40] [main/DEBUG] [FML/]: Bar Finished: Loading Resources took 0.099s
+[22:52:40] [main/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[22:52:40] [main/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[22:52:40] [main/INFO] [FML/]: Processing ObjectHolder annotations
+[22:52:40] [main/INFO] [FML/]: Found 1168 ObjectHolder annotations
+[22:52:40] [main/INFO] [FML/]: Identifying ItemStackHolder annotations
+[22:52:40] [main/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[22:52:40] [main/TRACE] [minecraft/minecraft]: Sending event FMLPreInitializationEvent to mod minecraft
+[22:52:40] [main/TRACE] [minecraft/minecraft]: Sent event FMLPreInitializationEvent to mod minecraft
+[22:52:40] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft took 0.001s
+[22:52:40] [main/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[22:52:40] [main/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[22:52:40] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[22:52:40] [main/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[22:52:40] [main/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[22:52:40] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.001s
+[22:52:40] [main/TRACE] [forge/forge]: Sending event FMLPreInitializationEvent to mod forge
+[22:52:40] [main/INFO] [FML/forge]: Configured a dormant chunk cache size of 0
+[22:52:40] [main/TRACE] [forge/forge]: Sent event FMLPreInitializationEvent to mod forge
+[22:52:40] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.112s
+[22:52:40] [main/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.114s
+[22:52:40] [main/INFO] [FML/]: Applying holder lookups
+[22:52:40] [main/INFO] [FML/]: Holder lookups applied
+[22:52:40] [main/INFO] [FML/]: Applying holder lookups
+[22:52:40] [main/INFO] [FML/]: Holder lookups applied
+[22:52:40] [main/INFO] [FML/]: Applying holder lookups
+[22:52:40] [main/INFO] [FML/]: Holder lookups applied
+[22:52:40] [main/INFO] [FML/]: Applying holder lookups
+[22:52:40] [main/INFO] [FML/]: Holder lookups applied
+[22:52:40] [main/INFO] [FML/]: Injecting itemstacks
+[22:52:40] [main/INFO] [FML/]: Itemstack injection complete
+[22:52:40] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - TextureManager took 0.000s
+[22:52:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - SoundHandler took 2.354s
+[22:52:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.012s
+[22:52:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.012s
+[22:52:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.023s
+[22:52:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.016s
+[22:52:43] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - GL Setup took 0.001s
+[22:52:43] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Texture Map took 0.012s
+[22:52:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - B3DLoader took 0.001s
+[22:52:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - OBJLoader took 0.000s
+[22:52:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
+[22:52:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
+[22:52:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.010s
+[22:52:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
+[22:52:48] [main/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 4.412s
+[22:52:49] [main/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 1.438s
+[22:52:49] [main/INFO] [FML/]: Max texture size: 16384
+[22:52:53] [main/DEBUG] [FML/]: Bar Finished: Texture stitching took 4.096s
+[22:52:53] [main/DEBUG] [FML/]: Bar Finished: Texture stitching took 0.014s
+[22:52:53] [main/DEBUG] [FML/]: Bar Finished: Texture creation took 0.017s
+[22:52:53] [main/DEBUG] [FML/]: Bar Finished: Texture mipmap and upload took 0.043s
+[22:52:54] [main/DEBUG] [FML/]: Bar Finished: ModelLoader: baking took 0.689s
+[22:52:54] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelManager took 10.977s
+[22:52:54] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Model Manager took 11.182s
+[22:52:54] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderItem took 0.003s
+[22:52:54] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Item Renderer took 0.315s
+[22:52:54] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - EntityRenderer took 0.000s
+[22:52:54] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - BlockRendererDispatcher took 0.000s
+[22:52:54] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderGlobal took 0.000s
+[22:52:55] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - SearchTreeManager took 0.078s
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Entity Renderer took 0.354s
+[22:52:55] [main/DEBUG] [FML/]: Bar Finished: Rendering Setup took 11.865s
+[22:52:55] [main/INFO] [FML/]: Applying holder lookups
+[22:52:55] [main/INFO] [FML/]: Holder lookups applied
+[22:52:55] [main/TRACE] [minecraft/minecraft]: Sending event FMLInitializationEvent to mod minecraft
+[22:52:55] [main/TRACE] [minecraft/minecraft]: Sent event FMLInitializationEvent to mod minecraft
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: Initialization - Minecraft took 0.000s
+[22:52:55] [main/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[22:52:55] [main/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
+[22:52:55] [main/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[22:52:55] [main/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.000s
+[22:52:55] [main/TRACE] [forge/forge]: Sending event FMLInitializationEvent to mod forge
+[22:52:55] [main/TRACE] [forge/forge]: Sent event FMLInitializationEvent to mod forge
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[22:52:55] [main/DEBUG] [FML/]: Bar Finished: Initialization took 0.002s
+[22:52:55] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod minecraft
+[22:52:55] [main/TRACE] [minecraft/minecraft]: Sending event IMCEvent to mod minecraft
+[22:52:55] [main/TRACE] [minecraft/minecraft]: Sent event IMCEvent to mod minecraft
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft took 0.005s
+[22:52:55] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[22:52:55] [main/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[22:52:55] [main/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.000s
+[22:52:55] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[22:52:55] [main/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[22:52:55] [main/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[22:52:55] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod forge
+[22:52:55] [main/TRACE] [forge/forge]: Sending event IMCEvent to mod forge
+[22:52:55] [main/TRACE] [forge/forge]: Sent event IMCEvent to mod forge
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
+[22:52:55] [main/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.006s
+[22:52:55] [main/INFO] [FML/]: Injecting itemstacks
+[22:52:55] [main/INFO] [FML/]: Itemstack injection complete
+[22:52:55] [main/TRACE] [minecraft/minecraft]: Sending event FMLPostInitializationEvent to mod minecraft
+[22:52:55] [main/TRACE] [minecraft/minecraft]: Sent event FMLPostInitializationEvent to mod minecraft
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft took 0.000s
+[22:52:55] [main/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[22:52:55] [main/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[22:52:55] [main/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[22:52:55] [main/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[22:52:55] [main/TRACE] [forge/forge]: Sending event FMLPostInitializationEvent to mod forge
+[22:52:55] [main/TRACE] [forge/forge]: Sent event FMLPostInitializationEvent to mod forge
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.018s
+[22:52:55] [main/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.019s
+[22:52:55] [main/TRACE] [minecraft/minecraft]: Sending event FMLLoadCompleteEvent to mod minecraft
+[22:52:55] [main/TRACE] [minecraft/minecraft]: Sent event FMLLoadCompleteEvent to mod minecraft
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft took 0.001s
+[22:52:55] [main/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[22:52:55] [main/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[22:52:55] [main/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[22:52:55] [main/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[22:52:55] [main/TRACE] [forge/forge]: Sending event FMLLoadCompleteEvent to mod forge
+[22:52:55] [main/DEBUG] [FML/forge]: Forge RecipeSorter Baking:
+[22:52:55] [main/DEBUG] [FML/forge]:   16: RecipeEntry("Before", UNKNOWN, )
+[22:52:55] [main/DEBUG] [FML/forge]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[22:52:55] [main/DEBUG] [FML/forge]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[22:52:55] [main/DEBUG] [FML/forge]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[22:52:55] [main/DEBUG] [FML/forge]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[22:52:55] [main/DEBUG] [FML/forge]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[22:52:55] [main/DEBUG] [FML/forge]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
+[22:52:55] [main/DEBUG] [FML/forge]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[22:52:55] [main/DEBUG] [FML/forge]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[22:52:55] [main/DEBUG] [FML/forge]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[22:52:55] [main/DEBUG] [FML/forge]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
+[22:52:55] [main/DEBUG] [FML/forge]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[22:52:55] [main/DEBUG] [FML/forge]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[22:52:55] [main/DEBUG] [FML/forge]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[22:52:55] [main/DEBUG] [FML/forge]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[22:52:55] [main/DEBUG] [FML/forge]:   1: RecipeEntry("After", UNKNOWN, )
+[22:52:55] [main/DEBUG] [FML/forge]: Sorting recipes
+[22:52:55] [main/TRACE] [forge/forge]: Sent event FMLLoadCompleteEvent to mod forge
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.014s
+[22:52:55] [main/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.015s
+[22:52:55] [main/DEBUG] [FML/]: Freezing registries
+[22:52:55] [main/TRACE] [minecraft/minecraft]: Sending event FMLModIdMappingEvent to mod minecraft
+[22:52:55] [main/TRACE] [minecraft/minecraft]: Sent event FMLModIdMappingEvent to mod minecraft
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft took 0.001s
+[22:52:55] [main/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[22:52:55] [main/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[22:52:55] [main/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[22:52:55] [main/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[22:52:55] [main/TRACE] [forge/forge]: Sending event FMLModIdMappingEvent to mod forge
+[22:52:55] [main/TRACE] [forge/forge]: Sent event FMLModIdMappingEvent to mod forge
+[22:52:55] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.123s
+[22:52:55] [main/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.124s
+[22:52:55] [main/DEBUG] [FML/]: All registries frozen
+[22:52:55] [main/INFO] [FML/]: Forge Mod Loader has successfully loaded 4 mods
+[22:52:55] [main/DEBUG] [FML/]: Bar Finished: Loading took 17.063s
